@@ -3,3 +3,4 @@ Gitのこれから。
 .git add
 .git commit
 secondを追加後
+.git status
