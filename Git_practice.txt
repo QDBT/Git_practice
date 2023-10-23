@@ -4,3 +4,4 @@ Gitのこれから。
 .git commit
 secondを追加後
 .git status
+.git diff
